@@ -1,0 +1,19 @@
+*{
+    font-family:  Roboto;
+}
+table{
+    border: 2px ;
+    margin: 10px;
+    border-collapse: collapse;
+    
+}
+
+table, th, td ,tr{
+    border-bottom: 1px solid #ddd;
+    padding: 10px 20px;
+} 
+
+th{
+    background-color: #01987A;
+    color: #fff;
+}
